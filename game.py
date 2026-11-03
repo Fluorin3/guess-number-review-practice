@@ -1,5 +1,4 @@
 import random
-import os
 
 SECRET = random.randint(1, 100)
 
